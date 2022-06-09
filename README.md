@@ -131,12 +131,16 @@ ___
 <h2> 
  
 </h2>
-           
+         
                                                    
 ## Deploy
                                                    
 <h2> <a href="https://escape-room-smoky.vercel.app/"> Link aquí ✅ </a> </h2>
-                                                   
+
+## Repositorio Backend
+
+<h2> <a href="https://github.com/Ronrook/Scape-room-backend"> Link aquí ✅ </a> </h2>                                                   
+                                                     
                                         
 ## Construido con                                                                                                    
 <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> </p> 
