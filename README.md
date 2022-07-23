@@ -168,7 +168,7 @@ npm run dev / yarn start
 
 ## Equipo de trabajo                                                   
                                                    
-[![Christian Lazo](https://avatars.githubusercontent.com/u/61626114?size=60)](https://github.com/christianlazo2020) [![Daniela Tobar](https://avatars.githubusercontent.com/u/88946723?size=60)](https://github.com/DanielaTob) [![Dargy](https://avatars.githubusercontent.com/u/90289472?size=60)](https://github.com/DargyJML) [![Juan David Quimbayo](https://avatars.githubusercontent.com/u/74111185?size=60)](https://github.com/JDQN) [![Carlos Martinez](https://avatars.githubusercontent.com/u/61025448?size=60)](https://github.com/marvintt) [![Ronald Rosero](https://avatars.githubusercontent.com/u/15052701?size=60)](https://github.com/Ronrook)
+(https://avatars.githubusercontent.com/u/88946723?size=60)](https://github.com/DanielaTob) [![Dargy](https://avatars.githubusercontent.com/u/90289472?size=60)](https://github.com/DargyJML) [![Juan David Quimbayo](https://avatars.githubusercontent.com/u/74111185?size=60)](https://github.com/JDQN) [![Carlos Martinez](https://avatars.githubusercontent.com/u/61025448?size=60)](https://github.com/marvintt) [![Ronald Rosero](https://avatars.githubusercontent.com/u/15052701?size=60)](https://github.com/Ronrook)
                                                    
 
 
